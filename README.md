@@ -18,17 +18,14 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mateuszmechula@gmail.com<br/><br/>
-
 </p>
 
 ## Use To Code
 
-[![My Skills](https://skillicons.dev/icons?i=idea,java,gradle,maven,postgres,spring,hibernate,stackoverflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,java,gradle,maven,postgres,spring,hibernate,docker,ai,postman,github,stackoverflow&theme=light)](https://skillicons.dev)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
