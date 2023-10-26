@@ -1,7 +1,4 @@
-<h3 align="center">
-        <samp>&gt; Welcome to my github page!
-    
-</h3>
+<h3 align="center"><samp>&gt; Welcome to my github page!</h3>
 
 <p align="center"> 
   <samp>
@@ -14,10 +11,9 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/mateuszmechula" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="mateusz"/>
  </a>
 </p>
-<br />
 
  # About me
  
@@ -27,7 +23,6 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mateuszmechula@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/mateuszmechula/issues)
 
 </p>
 
