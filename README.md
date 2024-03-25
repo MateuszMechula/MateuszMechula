@@ -1,13 +1,8 @@
 <h3 align="center"><samp>&gt; Welcome to my github page!</h3>
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am interested in getting <b> Junior Java Developer </b> position 」
     <br>
     <br>
-  </samp>
-</p>
+    
 
 <p align="center">
  <a href="https://linkedin.com/in/mateuszmechula" target="_blank">
