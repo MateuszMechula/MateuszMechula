@@ -1,7 +1,4 @@
 <h3 align="center"><samp>&gt; Welcome to my github page!</h3>
-
-    <br>
-    <br>
     
 
 <p align="center">
