@@ -7,12 +7,7 @@
  </a>
 </p>
 
- # About me
- 
-<p>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mateuszmechula@gmail.com<br/><br/>
+ 📧 &emsp; mateuszmechula@gmail.com<br/><br/>
 </p>
 
 ## Use To Code
